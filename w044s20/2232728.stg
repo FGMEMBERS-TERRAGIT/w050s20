@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac -43.985036 -19.616072 803.71 180
 OBJECT_SHARED Models/Airport/marker.ac -43.985036 -19.616072 803.71 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.97187 -19.62317 857.30 130.91
+# END dsf2stg
