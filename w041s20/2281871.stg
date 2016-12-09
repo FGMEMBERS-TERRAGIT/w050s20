@@ -3,3 +3,4 @@ OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -40.0579907 -19.8449961 -0.01 1
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -40.0561714 -19.8466551 -0.11 331.11
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -40.0466721 -19.8436636 -0.46 72.86
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -40.048172 -19.841665 -0.39 169.27
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -40.063374 -19.8340168 14.22 0
