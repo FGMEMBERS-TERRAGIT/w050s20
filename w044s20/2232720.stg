@@ -7,3 +7,6 @@ OBJECT_SHARED Models/Airport/localizer.xml -43.9575 -19.646 827.66 228.9
 OBJECT_SHARED Models/lib/LgMaint.ac -43.89577 -19.65573 832.93 268.91
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.89603 -19.66007 845.33 253.05
 # END dsf2stg
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -43.966835 -19.629775 824.02 210
+OBJECT_SHARED Models/Airport/Terminal-ru1.ac -43.968701 -19.62741 820.88 210
+OBJECT_SHARED Models/Airport/Terminal-ru1.ac -43.96338 -19.632685 822.79 210
