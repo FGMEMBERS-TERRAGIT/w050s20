@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Airport/ndb.ac -43.985036 -19.616072 803.71 180
 OBJECT_SHARED Models/Airport/marker.ac -43.985036 -19.616072 803.71 180
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.971716 -19.623853 852.13 160
