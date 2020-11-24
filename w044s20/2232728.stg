@@ -3,6 +3,6 @@ OBJECT_SHARED Models/Airport/marker.ac -43.985036 -19.616072 803.71 180
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.97187 -19.62317 861.02 130.921
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.97187 -19.62317 826.88 130.921
 # END dsf2stg
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.971716 -19.623853 852.13 160
